@@ -8,7 +8,7 @@
 
 ## Daftar Isi
 
-- [Tugas 1](https://github.com/tiaradinda020/PWEB-II/tree/main/Jobsheet1)
+- [Tugas 1](https://github.com/tiaradinda020/Tugass2/tree/main/Tugas2)
   
 
 ## OUTPUT
